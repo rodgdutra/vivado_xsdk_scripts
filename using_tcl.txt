@@ -1,0 +1,2 @@
+Execute build.tcl with the batch mode of vivado xsdk to build the project wanted: 
+`xsdk -batch build.tcl`
